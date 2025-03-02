@@ -1,18 +1,3 @@
-# File: Project3.py
-# Student: Carla Infante
-# UT EID: cci344
-# Course Name: CS303E
-#
-# Date Created: 11/30/2024
-# Description of Program: Simulates a simple neighborhood grocery store with one checkout line. 
-
-
-################################################################################
-#                                                                              #
-#                       Simulation of a Simple Market                          #
-#                                                                              #
-################################################################################
-
 import random
 import os.path
 
